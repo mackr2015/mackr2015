@@ -6,15 +6,20 @@ I very much enjoy solving client problems with software and great design. Focusi
 
 ### My tech stack
 
-- LAMP ( Linux, Apache, MySQl and PHP )
-- WAMP (Windows, Apache, MySQl and PHP )
+- LAMP ( Linux, Apache, MySQL and PHP )
+- WAMP ( Windows, Apache, MySQL and PHP )
 - LEPL ( Linux, Nginx, PostGreSQL, Laravel )
 
+### Design 
+
+- Adobe suite package - Photoshop, Illustrator, Adobe Premier, XD
+
 <br />
----
+
+
 - I’m currently working on:
-- 🔭 Python, Flash AI ChatBot
-- 🌱 Laravel, Docker, LiveWire Booking app
+    - 🔭 Python, Flash AI ChatBot           
+    - 🌱 Laravel, Docker, LiveWire Booking app              
 
 
 ### Connect with me
