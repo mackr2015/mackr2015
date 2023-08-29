@@ -12,7 +12,9 @@ I very much enjoy solving client problems with software and great design. Focusi
 
 <br />
 ---
-- 🔭 I’m currently working on Python, Flash AI ChatBot
+- I’m currently working on:
+- 🔭 Python, Flash AI ChatBot
+- 🌱 Laravel, Docker, LiveWire Booking app
 
 
 ### Connect with me
@@ -21,7 +23,7 @@ I very much enjoy solving client problems with software and great design. Focusi
 [youtube]: https://www.youtube.com/channel/UCrcu_mrs35309Ghtp-GF2Zw
 [instagram]: https://www.instagram.com/maivcoding/
 
-[<img align="left" alt="MackR | Personal Portfolio Site" width="22px" src="https://img.icons8.com/?size=512&id=63725&format=svg" />][website]
+[<img align="left" widith="48" hieght="48" alt="MackR | Personal Portfolio Site" width="22px" src="imgs/icon-globe-48.png" />][website]
 [<img align="left" alt="MackR | LinkedIn profile" width="22px" src="https://img.icons8.com/?size=512&id=13930&format=svg" />][linkedin]
 [<img align="left" alt="MackR | YouTube channel" width="22px" src="https://img.icons8.com/?size=512&id=19318&format=svg" />][youtube]
 [<img align="left" alt="MackR | Instagram" width="22px" src="https://img.icons8.com/?size=512&id=32323&format=svg" />][instagram]
