@@ -23,10 +23,10 @@ I very much enjoy solving client problems with software and great design. Focusi
 [youtube]: https://www.youtube.com/channel/UCrcu_mrs35309Ghtp-GF2Zw
 [instagram]: https://www.instagram.com/maivcoding/
 
-[<img align="left" widith="48" hieght="48" alt="MackR | Personal Portfolio Site" width="22px" src="imgs/icon-globe-48.png" />][website]
-[<img align="left" alt="MackR | LinkedIn profile" width="22px" src="https://img.icons8.com/?size=512&id=13930&format=svg" />][linkedin]
-[<img align="left" alt="MackR | YouTube channel" width="22px" src="https://img.icons8.com/?size=512&id=19318&format=svg" />][youtube]
-[<img align="left" alt="MackR | Instagram" width="22px" src="https://img.icons8.com/?size=512&id=32323&format=svg" />][instagram]
+[<img align="left" width="48" height="48" alt="MackR | Personal Portfolio Site" width="22px" src="imgs/icon-globe-48.png" />][website]
+[<img align="left" width="48" height="48" alt="MackR | LinkedIn profile" width="22px" src="imgs/icon-linkedin-48.png" />][linkedin]
+[<img align="left" width="48" height="48" alt="MackR | YouTube channel" width="22px" src="imgs/icon-youtube-48.png" />][youtube]
+[<img align="left" width="48" height="48" alt="MackR | Instagram" width="22px" src="imgs/icon-instagram-48.png" />][instagram]
 
 
 
