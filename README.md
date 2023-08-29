@@ -25,7 +25,7 @@ I very much enjoy solving client problems with software and great design. Focusi
 ### Connect with me
 [website]: https://mackraicevic.com
 [linkedin]: https://www.linkedin.com/in/mackraicevic
-[youtube]: https://www.youtube.com/channel/UCrcu_mrs35309Ghtp-GF2Zw
+[youtube]: https://www.youtube.com/@maivcoding4727
 [instagram]: https://www.instagram.com/maivcoding/
 
 [<img align="left" width="48" height="48" alt="MackR | Personal Portfolio Site" width="22px" src="imgs/icon-globe-48.png" />][website]
