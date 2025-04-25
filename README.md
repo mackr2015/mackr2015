@@ -1,8 +1,7 @@
 ## Hello    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 ## I'm Mack
 
-As a Software Developer I love working with web apps, pushing pixels accross the screen.
-I very much enjoy solving client problems with software and great design. Focusing on efficiency and execution I approach every project with a user in mind.
+As a Full Stack Web Developer, I love building web applications and bringing interfaces to life. I’m passionate about solving real-world problems through thoughtful design and smart software solutions. With a focus on efficiency and execution, I approach every project with the end user in mind.
 
 ### My tech stack
 
@@ -16,10 +15,7 @@ I very much enjoy solving client problems with software and great design. Focusi
 
 <br />
 
-
-- I’m currently working on:
-    - 🔭 Python, Flash AI ChatBot           
-    - 🌱 Laravel, Docker, LiveWire Booking app              
+             
 
 
 ### Connect with me
